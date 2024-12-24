@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "module": "ESNext", 
+    "strict": true, 
+    "esModuleInterop": true, 
+    "skipLibCheck": true 
+  },
+  "files": ["./server/index.ts"]
+}
